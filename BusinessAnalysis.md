@@ -1,3 +1,4 @@
+![Ashlynn Glitz and Glitter Custom Boutique Logo](https://github.com/ReqEng-Analysis/Ashlynn_Glitz-Glitter_Boutique/blob/main/Images/AD%20Logo%20Package%202%20SMALLER.png)
 # 1. Introduction
 This document specifies the business requirements for Ashlynn Glitz and Glitter Custom Boutique.
   ## 1.1 Business purpose
@@ -15,7 +16,7 @@ This document specifies the business requirements for Ashlynn Glitz and Glitter 
 
 
 # 2. References
-References include Ashley Denton, who is the owner of the business. This also inlcudes the current business website (https://ashlynndesign.bigcartel.com/) and Facebook storefront (https://www.facebook.com/ashlynnglitzandglitter). I, the developer and creator of this document, also pose as a resource as I have ordered and experienced working and ordering from the business a number of times. Because of this, I can provide a customers perspective of the business and their systems.
+References include Ashley Denton, who is the owner of the business. This also inlcudes the [current business website](https://ashlynndesign.bigcartel.com/) and [Facebook storefront](https://www.facebook.com/ashlynnglitzandglitter). I, the developer and creator of this document, also pose as a resource as I have ordered and experienced working and ordering from the business a number of times. Because of this, I can provide a customers perspective of the business and their systems.
 
 
 # 3. Business management requirements
