@@ -1,4 +1,8 @@
-![Ashlynn Glitz and Glitter Custom Boutique Logo](https://github.com/ReqEng-Analysis/Ashlynn_Glitz-Glitter_Boutique/blob/main/Images/AD%20Logo%20Package%202%20SMALLER.png)
+<p align="center">
+  <img height="400" src="https://github.com/ReqEng-Analysis/Ashlynn_Glitz-Glitter_Boutique/blob/main/Images/AD%20Logo%20Package%201.png">
+</p>
+
+
 # 1. Introduction
 This document specifies the business requirements for Ashlynn Glitz and Glitter Custom Boutique.
   ## 1.1 Business purpose
