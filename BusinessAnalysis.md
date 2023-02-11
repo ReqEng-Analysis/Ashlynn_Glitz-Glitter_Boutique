@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="400" src="https://github.com/ReqEng-Analysis/Ashlynn_Glitz-Glitter_Boutique/blob/main/Images/AD%20Logo%20Package%201.png">
+  <img height="350" src="https://github.com/ReqEng-Analysis/Ashlynn_Glitz-Glitter_Boutique/blob/main/Images/AD%20Logo%20Package%201.png">
 </p>
 
 
@@ -27,7 +27,7 @@ References include Ashley Denton, who is the owner of the business. This also in
   ## 3.1 Business environment
   The business enviornment is primarily online, more specifically e-commerce. However, they often provide occasional in-person sales and participate in vendor events. Because of the specified enviornmental factors, there are other competing business who offer the same services. A potential influence to the business and system is the idea that there are other businesses that may have better services and systems that would entice customers to buying from a competitor. Another aspect of the business to consider is the overall cost of creating the products and the offered price. Since most of the company's revenue is from tumblers and their variations, we must take into the consideration the cost of the product itself prior to being customized.
   ## 3.2 Mission, goals, and objectives
-  Amplifying life through creativity, the Ashlynn brand’s mission is to always find joy in the creative scheme of life bringing a focus on branding, photography, design and content creation while educating the future of marketing and media to discover their passion.
+  Amplifying life through creativity, the Ashlynn brand’s mission is to always find joy in the creative scheme of life bringing a focus on branding, photography, design and content creation while educating the future of marketing and media to discover their passion. Objectives include helping small businesses reach their  marketing goals, and allow people to show off personalities.
   ## 3.3 Business model
   The business mission is achieved by providing custom products that incorporate design and content creation. This achievement can be further enhanced by providing a sufficient system to scale the current range of the business and their influence on marketing and media.
   ## 3.4 Information environment
@@ -36,12 +36,25 @@ References include Ashley Denton, who is the owner of the business. This also in
 
 # 4. Business operational requirements
   ## 4.1 Business processes
+  * Customers can browse through previous designs and choose whether they would like a previous design or can generate their own. This generated design is simply a description of what they would like as their design. The majority of designs are documented on the Facebook storefront, but some can also be found on the website.
+  * The customers can submit their order on the website or directly message the business to submit their order.
+  * Invoices and payment is processed and submitted using Paypal. This invoice is sent to the customer's e-mail address after products being ordered are specified.
+  * After both the payment and designs for the products are submitted, the product is handmade, then shipped/delivered to the customer. 
+  * The alternative process is the business creates varoius products and sells them in-person or at vendor events.
   ## 4.2 Business operational policies and rules
+  * Both the payment and design for a custom product, that is described by customer, must be submitted before the product is created.
+  * Custom products, that are related to consumption (tumblers and its variations), must be created in a clean enviornment or cleaned prior to shipping/delivering to customer.
+  * Shipping fees vary and are applied to product during payment processing. 
+  * The business has the right to ask for permission to change or alter design given the supplies availble or the capability of the employee creating the design on the product.
+  * Due to the customized nature of the products, all sales are final, meaning no returns or exchanges.
   ## 4.3 Business operational constraints
-  Solo operator, manages small amount of orders at time. Small amount of inventory on hand but has local supplier for main items. Could deal with longer ship time for more specialty products. 
+  Solo operator, manages small amount of orders at time. Small amount of inventory on hand but has local supplier for main items. Could deal with longer ship time for more specialty products. The amount of time the products to ship varies based on the number of orders, number of products in order, and the capacity of the business at the specific time.
   ## 4.4 Business operational modes
+  
   ## 4.5 Business operational quality
+  
   ## 4.6 Business structure
+  
 
 
 # 5. Preliminary operational concept of proposed system
